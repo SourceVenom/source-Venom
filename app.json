@@ -1,5 +1,5 @@
 {
-  "name": "سورس الراضي  - 𝙎𝙊𝙐𝙍𝘾𝙀 A𝙇 𝙍𝘼𝘿𝙔",
+  "name": "سورس فينوم  - 𝙎𝙊𝙐𝙍𝘾𝙀 ",
   "description": " اهلابك في تنصيب تلثيون الراضي - ",
   "logo": "https://telegra.ph/file/893f0262cb6af3460f8b0.jpg",
   "keywords": [
@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/githupsource/source_reefz",
+  "repository": "https://github.com/SourceVenom/source_Venom",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -56,7 +56,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتغيره ابداً",
-      "value": "https://github.com/monzer660/source_Al_RADI",
+      "value": "https://github.com/SourceVenom/source_Venom",
       "required": false
     }
     },
